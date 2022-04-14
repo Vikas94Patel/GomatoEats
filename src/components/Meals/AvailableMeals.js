@@ -8,25 +8,25 @@ const DUMMY_MEALS = [
       id: 'm1',
       name: 'Sushi',
       description: 'Finest fish and veggies',
-      price: 22.99,
+      price: 499.99,
     },
     {
       id: 'm2',
       name: 'Pizza',
       description: 'A german specialty!',
-      price: 16.5,
+      price: 250,
     },
     {
       id: 'm3',
       name: 'Barbecue Burger',
       description: 'American, raw, meaty',
-      price: 12.99,
+      price: 399.50,
     },
     {
       id: 'm4',
       name: 'Green Bowl',
       description: 'Healthy...and green...',
-      price: 18.99,
+      price: 189.99,
     },
   ];
 
