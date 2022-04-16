@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GomatoEats/static/css/main.638e89e3.chunk.css",
+    "main.css": "/GomatoEats/static/css/main.dcbc70a2.chunk.css",
     "main.js": "/GomatoEats/static/js/main.cee21582.chunk.js",
     "main.js.map": "/GomatoEats/static/js/main.cee21582.chunk.js.map",
     "runtime-main.js": "/GomatoEats/static/js/runtime-main.2747e311.js",
@@ -8,14 +8,14 @@
     "static/js/2.5c6fc5f7.chunk.js": "/GomatoEats/static/js/2.5c6fc5f7.chunk.js",
     "static/js/2.5c6fc5f7.chunk.js.map": "/GomatoEats/static/js/2.5c6fc5f7.chunk.js.map",
     "index.html": "/GomatoEats/index.html",
-    "static/css/main.638e89e3.chunk.css.map": "/GomatoEats/static/css/main.638e89e3.chunk.css.map",
+    "static/css/main.dcbc70a2.chunk.css.map": "/GomatoEats/static/css/main.dcbc70a2.chunk.css.map",
     "static/js/2.5c6fc5f7.chunk.js.LICENSE.txt": "/GomatoEats/static/js/2.5c6fc5f7.chunk.js.LICENSE.txt",
     "static/media/meals.e0eefc1a.jpg": "/GomatoEats/static/media/meals.e0eefc1a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2747e311.js",
     "static/js/2.5c6fc5f7.chunk.js",
-    "static/css/main.638e89e3.chunk.css",
+    "static/css/main.dcbc70a2.chunk.css",
     "static/js/main.cee21582.chunk.js"
   ]
 }
